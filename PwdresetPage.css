@@ -1,0 +1,16 @@
+body {
+  background-color: aquamarine;
+  text-align: center;
+}
+h2 {
+  background-color: aliceblue;
+  text-align: center;
+}
+
+button {
+  height: 1cm;
+}
+input {
+  height: 1cm;
+  width: 10cm;
+}

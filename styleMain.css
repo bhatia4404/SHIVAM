@@ -1,0 +1,27 @@
+form {
+  text-align: center;
+  background-color: aliceblue;
+  width: 50%;
+  margin-left: 25%;
+}
+
+.signIn {
+  font-family: copp;
+}
+
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: xxx-large;
+  background-color: aliceblue;
+  text-align: center;
+}
+button {
+  font-family: cursive;
+}
+
+p {
+  font-size: large;
+}
+body {
+  background-color: cornflowerblue;
+}
